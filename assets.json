@@ -1,0 +1,18 @@
+{
+  "index-call": {
+    "css": "./assets/css/index-call.bundle.css",
+    "js": "./assets/js/index-call.bundle.js"
+  },
+  "index": {
+    "css": "./assets/css/index.bundle.css",
+    "js": "./assets/js/index.bundle.js"
+  },
+  "second-call": {
+    "css": "./assets/css/second-call.bundle.css",
+    "js": "./assets/js/second-call.bundle.js"
+  },
+  "second": {
+    "css": "./assets/css/second.bundle.css",
+    "js": "./assets/js/second.bundle.js"
+  }
+}
